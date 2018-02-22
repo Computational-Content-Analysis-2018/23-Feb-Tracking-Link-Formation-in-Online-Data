@@ -1,0 +1,2 @@
+# Comments on: Tracking Link Formation in Online Data
+[Easley, David and Jon Kleinberg. 2010. Chapter 4.4 (“Tracking Link Formation in Online Data”) and 13 (“The Structure of the Web”) from Networks, Crowds, and Markets: Reasoning about a Highly Connected World.](('http://www.cs.cornell.edu/home/kleinber/networks-book/',))
